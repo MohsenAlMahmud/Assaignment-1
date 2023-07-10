@@ -129,3 +129,25 @@
 .hot-image{
     margin-right: 500px;
 }
+.instagram-container{
+    /* display: flex; */
+}
+.instagram-image{
+    display: flex;
+    gap: 20px;
+}
+.instagram{
+    width: 1920px;
+    justify-content: center;
+    display: flex;
+}
+.instagram-text{
+    text-align: center;
+}
+
+.instagrm-heading{
+    font-size: 40px;
+}
+.instagram-body{
+    font-size: 18px;
+}
