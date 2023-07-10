@@ -32,3 +32,54 @@
 .image{
     padding: 50px 150px 0px 100px;
 }
+.feature-text{
+    /* height: 850px; */
+    width: 700px;
+    margin: auto;
+    align-items: center;
+    text-align: center;
+}
+.feature-heading{
+    font-size: 40px;
+}
+.feature-body{
+    font-size: 18px;
+}
+.frame1{
+    background-color: rgba(167, 33, 98, 0.15);
+    height: 338px;
+    width: 264px;
+    border-radius: 464px 464px 0px 0px;
+}
+.frame2{
+    background-color: rgba(5, 151, 160, 0.15);
+    height: 338px;
+    width: 264px;
+    border-radius: 464px 464px 0px 0px;
+}
+.frame3{
+    background-color: rgba(71, 125, 17, 0.15);
+       
+    height: 338px;
+    width: 264px;
+    border-radius: 464px 464px 0px 0px;
+}
+.frame-image{
+    height: 250px;
+    width: 150px;
+    padding: 88px 50px 0px 50px;
+}
+.frame-text{
+    padding: 10px 10px 10px 70px;
+    text-decoration: underline;
+}
+.feature-container{
+    /* display: flex; */
+}
+.feature-pic{
+    display: flex;
+    width: 1920px;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
