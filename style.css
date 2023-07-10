@@ -151,3 +151,37 @@
 .instagram-body{
     font-size: 18px;
 }
+.subscribe-form{
+    display: flex;
+}
+.subscribe{
+    width: 1440px;
+    height: 450px;
+    background-image: url(./images/Rectangle\ 9.png);
+    margin-left: 240px;
+}
+.subscribe-all{
+    width: 1440px;
+    height: 450px;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 60px 100px 0px;
+    margin-top: 20px;
+    
+}
+.subscribe-text{
+    text-align: center;
+}
+.subscribe-form{
+    margin-left: 430px;
+}
+.subscribe-heading{
+    font-size: 40px;
+}
+.subscribe-body{
+    font-size: 18px;
+}
+
+.form-field{
+    padding: 10px 180px;
+}
