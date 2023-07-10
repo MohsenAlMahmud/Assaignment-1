@@ -35,9 +35,11 @@
 .feature-text{
     /* height: 850px; */
     width: 700px;
-    margin: auto;
-    align-items: center;
+    margin-left: 750px;
+    /* margin: auto; */
+    /* align-items: center; */
     text-align: center;
+    margin-top: 150px;
 }
 .feature-heading{
     font-size: 40px;
@@ -47,26 +49,26 @@
 }
 .frame1{
     background-color: rgba(167, 33, 98, 0.15);
-    height: 338px;
-    width: 264px;
+    height: 538px;
+    width: 464px;
     border-radius: 464px 464px 0px 0px;
 }
 .frame2{
     background-color: rgba(5, 151, 160, 0.15);
-    height: 338px;
-    width: 264px;
+    height: 538px;
+    width: 464px;
     border-radius: 464px 464px 0px 0px;
 }
 .frame3{
     background-color: rgba(71, 125, 17, 0.15);
        
-    height: 338px;
-    width: 264px;
+    height: 538px;
+    width: 464px;
     border-radius: 464px 464px 0px 0px;
 }
 .frame-image{
-    height: 250px;
-    width: 150px;
+    height: 450px;
+    width: 350px;
     padding: 88px 50px 0px 50px;
 }
 .frame-text{
@@ -74,14 +76,13 @@
     text-decoration: underline;
 }
 .feature-container{
-    /* display: flex; */
+    
 }
 .feature-pic{
     display: flex;
-    width: 1920px;
+    width: 1922px;
     gap: 20px;
-    align-items: center;
-    justify-content: center;
+    margin-left: 250px;
 }
 .support{
     height: 220px;
@@ -93,7 +94,7 @@
     align-items: center;
     margin-left: 250px;
     text-align: center;
-    margin-top: 80px;
+    margin-top: 150px;
 }
 .support-type1{
     margin-top: 50px;
@@ -108,9 +109,9 @@
     height: 620px;
     width: 1920px;
     display: flex;
-    
+    margin-top: 20px;
     background-color: rgba(229, 84, 115, 0.05);
-     
+    margin-top: 150px;
     align-items: center;
     justify-content: space-around;
     
@@ -143,6 +144,7 @@
     width: 1920px;
     justify-content: center;
     display: flex;
+    margin-top: 150px;
 }
 .instagram-text{
     text-align: center;
@@ -169,7 +171,7 @@
     justify-content: center;
     align-items: center;
     padding: 100px 60px 100px 0px;
-    margin-top: 20px;
+    margin-top: 150px;
     
 }
 .subscribe-text{
@@ -190,12 +192,12 @@
 }
 .footer{
     background-color: #111010;
-    width: 1922px;
+    /* width: 1920px; */
     height: 449px;
     display: flex;
     align-items: center;
-    
     justify-content: center;
+    margin-top: 150px;
 }
 .footer-text{
     text-align: center;
