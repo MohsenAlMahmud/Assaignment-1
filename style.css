@@ -83,3 +83,24 @@
     align-items: center;
     justify-content: center;
 }
+.support{
+    height: 220px;
+    width: 1440px;
+    display: flex;
+    background-color: rgba(39, 39, 39, 0.05);
+    border-radius: 8px;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 250px;
+    text-align: center;
+    margin-top: 80px;
+}
+.support-type1{
+    margin-top: 50px;
+}
+.support-type2{
+    margin-top: 50px;
+}
+.support-type3{
+    margin-top: 50px;
+}
