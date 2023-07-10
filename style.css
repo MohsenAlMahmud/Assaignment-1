@@ -129,6 +129,9 @@
 .hot-image{
     margin-right: 500px;
 }
+.text-color{
+    color: #E55473;
+}
 .instagram-container{
     /* display: flex; */
 }
@@ -185,3 +188,26 @@
 .form-field{
     padding: 10px 180px;
 }
+.footer{
+    background-color: #111010;
+    width: 1922px;
+    height: 449px;
+    display: flex;
+    align-items: center;
+    
+    justify-content: center;
+}
+.footer-text{
+    text-align: center;
+    color: white;
+}
+.footer-heading{
+    font-size: 48px;
+}
+.footer-body{
+    font-size: 18px;
+}
+.footer-copyr8{
+    font-size: 16px;
+}
+
