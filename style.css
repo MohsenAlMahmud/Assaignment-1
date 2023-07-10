@@ -104,3 +104,28 @@
 .support-type3{
     margin-top: 50px;
 }
+.hot{
+    height: 620px;
+    width: 1920px;
+    display: flex;
+    
+    background-color: rgba(229, 84, 115, 0.05);
+     
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.hot-text{
+    text-align: center;
+    margin-left: 350px;
+    padding: 50px 50px 50px 50px;
+}
+.hot-text-heading{
+    font-size: 40px;
+}
+.hot-text-body{
+    font-size: 18px;
+}
+.hot-image{
+    margin-right: 500px;
+}
