@@ -195,6 +195,8 @@
     width: 500px;
     height: 60px;
     border-radius: 10px;
+    border: none;
+    padding-left: 30px;
 }
 .order-now{
     background-color: rgba(167, 33, 98, 0.15);
